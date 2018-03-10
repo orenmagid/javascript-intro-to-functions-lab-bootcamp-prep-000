@@ -22,6 +22,5 @@ var lowercase = "hello!"
   var uppercase = "HELLO!"
   else if (uppercase.toUpperCase() === uppercase) {
     return "YES INDEED!"
-  
   }
 }
